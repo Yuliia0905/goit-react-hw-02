@@ -1,0 +1,8 @@
+.list {
+  font-size: 20px;
+}
+
+.list li:last-child {
+  color: green;
+  font-weight: 800;
+}
